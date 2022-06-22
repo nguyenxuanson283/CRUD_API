@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "username": "sonnx",
+      "fullname": "nguyễn xuân sơn",
+      "email": "nguyenxuanson283@gmail.com",
+      "birthday": "1994-03-28",
+      "id": 1
+    },
+    {
+      "username": "s",
+      "fullname": "s",
+      "email": "s",
+      "birthday": "",
+      "id": 2
+    }
+  ]
+}
